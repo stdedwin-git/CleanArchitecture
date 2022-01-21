@@ -1,0 +1,12 @@
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net5.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net5.0\HR.LeaveManagement.Domain.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net5.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net5.0\HR.LeaveManagement.Domain.pdb
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net5.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net5.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net5.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net5.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net5.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net5.0\HR.LeaveManagement.Domain.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net5.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net5.0\HR.LeaveManagement.Domain.pdb

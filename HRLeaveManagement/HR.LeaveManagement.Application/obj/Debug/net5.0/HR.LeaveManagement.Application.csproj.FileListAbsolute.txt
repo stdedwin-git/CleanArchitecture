@@ -1,0 +1,15 @@
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Application.deps.json
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Application.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\ref\HR.LeaveManagement.Application.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Application.pdb
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Domain.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Domain.pdb
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\ref\HR.LeaveManagement.Application.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.pdb
