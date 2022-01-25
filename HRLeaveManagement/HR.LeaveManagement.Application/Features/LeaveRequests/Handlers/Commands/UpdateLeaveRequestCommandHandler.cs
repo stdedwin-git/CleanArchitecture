@@ -2,11 +2,11 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
+using HR.LeaveManagement.Application.Contracts.Persistence;
 using HR.LeaveManagement.Application.DTOs.LeaveRequest.Validators;
 using HR.LeaveManagement.Application.DTOs.LeaveType.Validators;
 using HR.LeaveManagement.Application.Exceptions;
 using HR.LeaveManagement.Application.Features.LeaveRequests.Requests.Commands;
-using HR.LeaveManagement.Application.Persistence.Contracts;
 using MediatR;
 
 namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Commands
@@ -40,7 +40,7 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
             }
             else if(request.ChangeLeaveRequestApprovalDto != null)
             {
-                await _leaveRequestRepository.ChangeApporvalStatus(leaveRequest,request.ChangeLeaveRequestApprovalDto.Approved);
+                await _leaveRequestRepository.ChangeApprovalStatus(leaveRequest,request.ChangeLeaveRequestApprovalDto.Approved);
             }
 
             return Unit.Value;

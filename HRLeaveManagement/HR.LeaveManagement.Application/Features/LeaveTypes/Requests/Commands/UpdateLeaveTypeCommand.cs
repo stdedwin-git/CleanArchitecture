@@ -6,7 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
-using HR.LeaveManagement.Application.Persistence.Contracts;
 
 namespace HR.LeaveManagement.Application.Features.LeaveTypes.Requests.Commands
 {
