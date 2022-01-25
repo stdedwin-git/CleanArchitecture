@@ -1,0 +1,17 @@
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Persistence.deps.json
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Persistence.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net5.0\ref\HR.LeaveManagement.Persistence.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Persistence.pdb
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\ref\HR.LeaveManagement.Persistence.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.pdb
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Application.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Domain.dll
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Application.pdb
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net5.0\HR.LeaveManagement.Domain.pdb
+C:\Users\e.tellez\source\repos\CleanArchitecture\HRLeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net5.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
