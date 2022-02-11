@@ -2,6 +2,7 @@
 using HR.LeaveManagement.Application.Features.LeaveAllocations.Request.Queries;
 using HR.LeaveManagement.Application.Features.LeaveAllocations.Requests.Commands;
 using HR.LeaveManagement.Application.Features.LeaveAllocations.Requests.Queries;
+using HR.LeaveManagement.Application.Responses;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -40,7 +41,7 @@ namespace HR.LeaveManagement.Api.Controllers
 
         // POST api/<LeaveAllocationsController>
         [HttpPost]
-        public async Task<ActionResult> Post([FromBody] CreateLeaveAllocationDto leaveAllocation)
+        public async Task<ActionResult<BaseCommandResponse>> Post([FromBody] CreateLeaveAllocationDto leaveAllocation)
         {
             var command = new CreateLeaveAllocationCommand { LeaveAllocationDto = leaveAllocation};
             var response = await _mediator.Send(command);

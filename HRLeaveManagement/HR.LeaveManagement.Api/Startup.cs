@@ -1,19 +1,14 @@
+using HR.LeaveManagement.Application;
+using HR.LeaveManagement.Identity;
+using HR.LeaveManagement.Infrastructure;
+using HR.LeaveManagement.Persistence;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using HR.LeaveManagement.Application;
-using HR.LeaveManagement.Infrastructure;
-using HR.LeaveManagement.Persistence;
 using Microsoft.OpenApi.Models;
+using System.Collections.Generic;
 
 namespace HR.LeaveManagement.Api
 {
@@ -34,6 +29,7 @@ namespace HR.LeaveManagement.Api
             services.ConfigureApplicationServices();
             services.ConfigureInfrastructureServices(Configuration);
             services.ConfigurePersistenceServices(Configuration);
+            services.ConfigureIdentityServices(Configuration);
 
             services.AddControllers();
             
@@ -54,6 +50,8 @@ namespace HR.LeaveManagement.Api
                 app.UseDeveloperExceptionPage();
             }
 
+            //app.UseMiddleware<ExceptionMiddleware>();
+            app.UseAuthentication();
             app.UseHttpsRedirection();
 
             app.UseRouting();
